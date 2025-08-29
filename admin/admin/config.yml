@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: <soikot733>/ldf-site   # এখানে তোমার GitHub username/repo লিখবে
   branch: main
 
 media_folder: "images/uploads"
